@@ -1,0 +1,65 @@
+
+/*Text sollte mittig im Bild zu sehen sein*/
+body {
+    background-image: url(hintergrund/gifs/background-4.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vertikal {
+    margin-top: 25%;
+    margin-left: 50%;
+    top: 50%;  
+}
+.textRechts {
+    text-align: center;
+    box-shadow: 0 0 10px 2px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.btn4 {
+    font-family: sans-serif;
+    background: paleturquoise;
+    color: black;
+    margin: 25px;
+    padding: 5px;
+    width: 125px;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 125%;
+    box-shadow: 5px 2px 0px 0;
+    border-radius: 8px;
+}
+
+.btn4:hover {
+    background-color: darkturquoise;
+    color: black;
+    border: 1px solid lightskyblue;
+    box-shadow: 5px 2px 0px 0;
+}
+
+.btn4:active {
+  background-color: white;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+h1 {
+    margin-bottom: 50px;
+    margin-right: 25px;
+    font-family:monospace;
+    color: ;
+    font-size: 200%;
+}
+
+p {
+    margin-right: 25px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 75%;
+}
