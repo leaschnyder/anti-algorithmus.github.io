@@ -24,7 +24,7 @@ body {
     font-family: sans-serif;
     background: lightblue;
     color: black;
-    margin-top: 10%;
+    margin-top: 2%;
     margin-left: 40%;
     padding: 15px;
     width: 125px;
@@ -64,6 +64,7 @@ h3 {
     font-family: sans-serif;
     font-size: 75%;
     font-weight: 10;
+    padding-right: 59%;
 }
 
 p {
