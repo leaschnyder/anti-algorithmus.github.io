@@ -1,5 +1,1 @@
-$ dig www.alti-algorithmus.ch +nostats +nocomments +nocmd
-    > ;www.anti-algorithmus.ch.                     IN      A
-    > www.anti-algorithmus.ch.               3592    IN      CNAME   leaschnyder.github.io.
-    > leaschnyder.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+www.anti-algorithmus.ch
